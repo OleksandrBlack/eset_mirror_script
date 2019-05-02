@@ -12,9 +12,10 @@ $DIRECTORIES = [
     9 => 'eset_upd/v9',
     10 => 'eset_upd/v10',
     11 => 'eset_upd/v11',
+    12 => 'eset_upd/v12',
 ];
 
-$VERSION = '20180711 [Freedom for Ukraine by harmless]';
+$VERSION = '20190309 [Freedom for Ukraine by harmless]';
 
 @define('DS', DIRECTORY_SEPARATOR);
 @define('SELF', dirname(__DIR__) . DS);
